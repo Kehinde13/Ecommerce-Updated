@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://github.com/Kehinde13/E-commerce)
-- [Live Site URL](https://kehinde13.github.io/E-commerce/)
+- [Solution URL](https://github.com/Kehinde13/Ecommerce-Updated)
+- [Live Site URL](https://654ccc2e624211325c68141a--chipper-rolypoly-52125b.netlify.app/)
 
 
 ## My process
